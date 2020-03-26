@@ -1,1 +1,2 @@
-# compPhysHw4
+# HW4: Application to Causal structure discovery
+This repository contains a notebook to find if a causal structure is compatible with a given probability distribution. This is done by solving a feasability test using linear programming. The notebook is split in 4 parts: HW1, HW2, HW3, HW4 where we test different distributions with different causal structures. For the last question, I have chosen to test the spiral distribution for the last question.
